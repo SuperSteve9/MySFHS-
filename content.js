@@ -145,7 +145,7 @@ function calcCumGPA(grades) {
     setTimeout(() => {
         appendToGrades();
         createGPAThing();
-    }, 1000);
+    }, 2000);
 
     // those who know!!! :skull:
     // also i have no fucking idea how this works I had to ask gpt but it does so yipee
